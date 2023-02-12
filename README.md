@@ -24,4 +24,11 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
+<div>
+  <a href="https://github.com/ViniciusProgrammer">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=compact&langs_count=7&theme=react" />
+    
+![Snake animation](https://github.com/ViniciusProgrammer/ViniciusProgrammer/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

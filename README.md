@@ -14,12 +14,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ViniciusProgrammer&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViniciusProgrammer}/count.svg" /></p> 
-<br>
-</div>
-
 ### Estudando
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

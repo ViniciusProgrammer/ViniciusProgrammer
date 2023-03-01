@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Vinicius+Davi;Estudante+de+Tecnologia+da+Informação+na+UFRN;Sejam+Bem+Vindos!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vincius Davigithub stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vincius Davigithub stats" /> 
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusProgrammer&bg_color=000000&color=00ffee&line=0aefff&point=b3dfc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

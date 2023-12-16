@@ -23,3 +23,5 @@ Estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ViniciusProgrammer&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&show_icons=true&theme=radical&layout=compact" />
  </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

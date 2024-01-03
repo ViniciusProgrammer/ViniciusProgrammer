@@ -5,11 +5,11 @@
 ## Olá, eu sou o Vinicius Davi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
 
 </p>
-Estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte(UFRN).
- 
-Atualmente estou focando a minha atenção para a linguagem Python.
 
-Estou buscando me tornar um desenvolvedor Back-end mas não pretendo parar por aqui!
+ 
+#### 🧠 Atualmente estou focando a minha atenção e aperfeiçoando as minhas skills na linguagem Python.
+
+#### ⏳ Estou buscando me tornar um desenvolvedor Back-end mas não pretendo parar por aqui!
 </p>
 
 <h3>Ferramentas e linguagens</h3>

@@ -5,7 +5,7 @@
 ## Olá, eu sou o Vinicius Davi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%>
 
 </p>
- Estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte(UFRN).
+Estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital da Universidade Federal do Rio Grande do Norte(UFRN).
  
 Atualmente estou focando a minha atenção para a linguagem Python.
 

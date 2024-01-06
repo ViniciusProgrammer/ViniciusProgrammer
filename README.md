@@ -13,14 +13,12 @@
 </p>
 
 <h3>Ferramentas e linguagens</h3>
-<p><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="VisualStudioCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,py,c,cpp,java,html,css,js" />
+  </a>
 </p>
-
+ 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusProgrammer&theme=radical&hide_border=false)<br" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"

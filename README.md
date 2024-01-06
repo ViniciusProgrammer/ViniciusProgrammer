@@ -15,7 +15,7 @@
 <h3>Ferramentas e linguagens</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,py,c,cpp,java,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,py,c,html,css,js,cpp,java" />
   </a>
 </p>
  

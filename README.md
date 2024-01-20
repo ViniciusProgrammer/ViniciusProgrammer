@@ -7,7 +7,7 @@
 </p>
 
  
-#### 🧠 Atualmente estou focando a minha atenção e aperfeiçoando as minhas skills na linguagem Python.
+#### 🧠 Atualmente estou focando a minha atenção na linguagem Java.
 
 #### ⏳ Estou buscando me tornar um desenvolvedor Back-end mas não pretendo parar por aqui!
 </p>

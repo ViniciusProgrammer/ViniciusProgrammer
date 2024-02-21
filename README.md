@@ -7,7 +7,7 @@
 </p>
 
  
-#### 🧠 Atualmente estou focando a minha atenção na linguagem Java.
+#### 🧠 Atualmente estou focando a minha atenção na linguagem Java, onde estou aprimorando minhas Skils em Programação Orientada a Objetos.
 
 #### ⏳ Estou buscando me tornar um desenvolvedor Back-end mas não pretendo parar por aqui!
 </p>

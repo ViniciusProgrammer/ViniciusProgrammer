@@ -9,7 +9,7 @@
  
 #### 🧠 Atualmente estou focando a minha atenção na linguagem Java, onde estou aprimorando minhas Skils em Programação Orientada a Objetos.
 
-#### ⏳ Estou focando no Back-End no momento, porém estou visando me desafiar no mundo do Front-End e me tornar um Desenvolvedor Full-Stack em um futuro próximo!
+#### ⏳ Estou focando no Back-End no momento, porém estou visando me desafiar no mundo do Front-End e me tornar um full developer(Front-End + Back-End)!
 </p>
 
 <h3>Ferramentas e linguagens</h3>

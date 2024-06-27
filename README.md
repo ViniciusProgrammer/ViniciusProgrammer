@@ -18,7 +18,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,py,c,html,css,js,cpp,java" />
   </a>
 </p>
- 
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusProgrammer&theme=radical&hide_border=false)<br" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"

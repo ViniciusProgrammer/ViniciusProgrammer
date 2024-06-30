@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="15" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />

@@ -52,9 +52,9 @@
 </div>
 
 <div align="center">
-   />
+   
 
-<h2 align="left"></h2>
+<h2 align="left">Graph of Commits</h2>
 
 
   

@@ -10,8 +10,6 @@
 
 ###
 
-
-
 <h2 align="left">Tools and Languages</h2>
 
 ###
@@ -42,8 +40,6 @@
 
 ###
 
-
-
 ###
 
 <h2 align="left">Stats</h2>
@@ -54,13 +50,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="175" alt="stats graph"  />
+   />
     <img src="https://streak-stats.demolab.com?user=ViniciusProgrammer&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusProgrammer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
 
-###
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
@@ -79,7 +78,5 @@
 </div>
 
 ###
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

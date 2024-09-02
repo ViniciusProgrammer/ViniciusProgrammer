@@ -43,7 +43,7 @@
 ###
 
 
-## 💫 Stats;
+## 💫 Stats
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
 <table align="center">
@@ -90,6 +90,8 @@
    </tr>
 </table>
 
+###
+<h2 align="left">Graph of Commits</h2>
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">

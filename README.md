@@ -42,20 +42,53 @@
 
 ###
 
-<h2 align="left">Stats</h2>
 
-###
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=ViniciusProgrammer&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusProgrammer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
-</div>
-
-<div align="center">
+## 💫 Stats;
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
+<table align="center">
+   <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&theme=radical&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusProgrammer&theme=radical&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=donut-vertical&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+   </tr>
    
+</table>
 
-<h2 align="left">Graph of Commits</h2>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center"> 
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusProgrammer&theme=radical" height="200em width=455em" />
+      </td>
+      <td width="50%" align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniciusProgrammer&theme=radical" height="200em" width="455em" />
+  </td>
+</tr>
+</table>
+      
 
+<table align="center">
+   <tr border="none">
+      <td width="100%" align="center">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusProgrammer&theme=radical" height="200em" width="822.5em" />
+     </td>
+   </tr>
+</table>
+
+
+<!--- trophy (start) -->
+<table align="center">
+   <tr border="none">
+      <td width="100%" align="center">
+         <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=mnpsnuwan&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" />
+      </td>
+   </tr>
+</table>
 
   
 <picture align="center">

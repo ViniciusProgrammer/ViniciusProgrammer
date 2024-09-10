@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Olá, me chamo Vinicius Davi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%><br><br><br>🧠 Atualmente estou focando a minha atenção na linguagem Java, onde estou aprimorando minhas Skils em Programação Orientada a Objetos.<br><br>⏳ Estou focando no Back-End no momento, porém estou visando me desafiar no mundo do Front-End e me tornar um full developer(Front-End + Back-End)!</h3>
+<h3 align="left">Olá, me chamo Vinicius Davi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%><br><br><br>🧠 Atualmente estou voltando a minha atenção na linguagem Java, onde estou aprimorando minhas Skils em Programação Orientada a Objetos.<br><br>⏳ Além disso, estou me desafiando no mundo do front-end com as tecnologia HTML, CSS e Javascript para em breve ser um desenvolvedor Full-stack!!!</h3>
 
 ###
 

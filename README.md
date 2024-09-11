@@ -44,8 +44,6 @@
 
 
 ## 💫 Stats
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnpsnuwan&&theme=algolia&hide=TeX&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnpsnuwan&theme=algolia" alt="mnpsnuwan"  /> -->
 <table align="center">
    <tr border="none">
       <td width="50%" align="center">
@@ -80,8 +78,6 @@
    </tr>
 </table>
 
-
-<!--- trophy (start) -->
 <table align="center">
    <tr border="none">
       <td width="100%" align="center">

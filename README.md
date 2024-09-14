@@ -101,8 +101,7 @@
 
 ## My graph of commits
 
-![Contribuição](profile-3d-contrib/profile-green.svg)
-
+![Contribuição](profile-3d-contrib/profile-night-rainbow.svg)
 
 <h2 align="left">Social Media and Contate-Me</h2>
 

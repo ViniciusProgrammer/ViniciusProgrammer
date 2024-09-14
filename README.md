@@ -87,7 +87,7 @@
 </table>
 
 ###
-<h2 align="left">Graph of Commits</h2>
+<h2 align="left">animation in my commits</h2>
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">

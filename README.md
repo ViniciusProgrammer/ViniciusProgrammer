@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tools and Languages</h2>
+<h2 align="left"> 🛠️  Tools and Languages</h2>
 
 ###
 
@@ -86,7 +86,7 @@
    </tr>
 </table>
 
-## My graph of commits
+## 📈  My graph of commits
 
 ![Contribuição](profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -97,7 +97,7 @@
 ###
 
 
-<h2 align="left">animation in my commits</h2>
+<h2 align="left"> 🐍  Animation in my commits</h2>
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">

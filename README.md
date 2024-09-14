@@ -86,7 +86,17 @@
    </tr>
 </table>
 
+## My graph of commits
+
+![Contribuição](profile-3d-contrib/profile-night-rainbow.svg)
+
 ###
+
+###
+
+###
+
+
 <h2 align="left">animation in my commits</h2>
   
 <picture align="center">
@@ -97,17 +107,7 @@
 
 ###
 
-
-
-## My graph of commits
-
-![Contribuição](profile-3d-contrib/profile-night-rainbow.svg)
-
 <h2 align="left">Social Media and Contate-Me</h2>
-
-###
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />

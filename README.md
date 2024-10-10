@@ -36,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="58" alt="cplusplus logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=java" height="58" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="58" alt="css3 logo"  />
 </div>
 
 ###

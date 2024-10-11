@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="1" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />

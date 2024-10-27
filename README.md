@@ -41,6 +41,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="10" />
 </div>
 
 ###

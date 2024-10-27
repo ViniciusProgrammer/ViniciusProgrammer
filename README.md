@@ -39,6 +39,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="55" alt="kotlin logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
+  <img width="8" />
 </div>
 
 ###

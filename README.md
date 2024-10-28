@@ -12,7 +12,17 @@
 
 ###
 
-<h4 align="left">Olá, me chamo Vinicius Davi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=4%><br><br><br>🧠 Atualmente estou voltando a minha atenção para a linguagem Java, onde estou aprimorando minhas Skils em Programação Orientada a Objetos.<br><br>⏳ Além disso, estou me desafiando no mundo front-end com as tecnologias HTML5, CSS3, JavaScript, React e Figma </h4>
+<p> 
+  <strong><h3 align="center">Sou estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital na UFRN <br/></h3></strong>
+  <ul>
+    <li>
+      🧠 Atualmente estou voltando a minha atenção para a linguagem Java, onde estou aprimorando minhas HardSkils no paradigma de Programação Orientada a Objetos. <br/>
+    </li>
+    <li>
+       ⏳ Além disso, estou me desafiando no mundo do front-end com as tecnologias ques estão em alta no mercado, sendo estas, (HTML5, CSS3, JavaScript, React e Figma).
+    </li>
+  </ul>
+</p>
 
 ###
 

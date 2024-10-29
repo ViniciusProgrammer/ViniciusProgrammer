@@ -16,10 +16,10 @@
   <strong><h3 align="center">Sou estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital na UFRN <br/></h3></strong>
   <ul>
     <li>
-      🧠 Atualmente estou voltando a minha atenção para a linguagem Java, onde estou aprimorando minhas HardSkils no paradigma de Programação Orientada a Objetos. <br/>
+      🧠 Atualmente, estou redirecionando meu foco para a linguagem Java, onde estou aprofundando minhas habilidades técnicas no paradigma de Programação Orientada a Objetos, buscando um domínio mais sólido e avançado dessa abordagem. <br/>
     </li>
     <li>
-       ⏳ Além disso, estou me desafiando no mundo do front-end com as tecnologias ques estão em alta no mercado, sendo estas, (HTML5, CSS3, JavaScript, React e Figma).
+       ⏳ Além disso, estou me desafiando a explorar o universo do front-end, focando nas tecnologias mais relevantes do mercado, como HTML5, CSS3, JavaScript, React e Figma.
     </li>
   </ul>
 </p>

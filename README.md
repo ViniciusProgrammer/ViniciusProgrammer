@@ -14,17 +14,21 @@
 
 <h1 align="left">About Me 🖖</h1>
 
-  <div>
-    <p>🎓 <strong>Estudante de Tecnologia da Informação</strong> no Instituto Metrópole Digital (IMD/UFRN), movido pela paixão de aprender, inovar e crescer no universo da tecnologia.</p>
-    <h2>💻 Áreas de Foco:</h2>
-    <ul>
-      <li><strong>Back-end:</strong> Desenvolvendo habilidades avançadas em <strong>Java</strong>, com ênfase no paradigma de <strong>Programação Orientada a Objetos (POO)</strong>, para criar soluções robustas e bem estruturadas.</li>
-      <li><strong>Front-end:</strong> Explorando ferramentas modernas como <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong> e <strong>React</strong>, com o propósito de desenvolver interfaces elegantes, funcionais e centradas no usuário.</li>
-      <li>🎨 <strong>Design e Experiência do Usuário:</strong> Refinando minha expertise em <strong>Figma</strong>, projetando layouts intuitivos e visuais que conectam tecnologia e design de maneira impactante.</li>
-    </ul>
-    <h2>🚀 Objetivo:</h2>
-    <p>Alavancar uma base sólida em programação e ferramentas modernas para construir projetos inovadores, eficientes e orientados à experiência do usuário. Sempre em busca de novos desafios e de um aprendizado contínuo que inspire soluções transformadoras.</p>
-  </div>
+ <div class="about-me">
+  <h1>👋 About Me</h1>
+  <p>🎓 <strong>Information Technology Student</strong> at the Instituto Metrópole Digital (IMD/UFRN), driven by a passion for learning, innovating, and growing in the technology universe.</p>
+
+  <h2>💻 Focus Areas:</h2>
+  <ul>
+    <li><strong>Back-end:</strong> Developing advanced skills in <strong>Java</strong>, with an emphasis on the <strong>Object-Oriented Programming (OOP)</strong> paradigm to create robust and well-structured solutions.</li>
+    <li><strong>Front-end:</strong> Exploring modern tools such as <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>React</strong>, aiming to build elegant, functional, and user-centered interfaces.</li>
+    <li>🎨 <strong>Design and User Experience:</strong> Enhancing my expertise in <strong>Figma</strong>, designing intuitive and visually impactful layouts that seamlessly connect technology and design.</li>
+  </ul>
+
+  <h2>🚀 Objective:</h2>
+  <p>Leverage a solid foundation in programming and modern tools to build innovative, efficient, and user-focused projects. Always seeking new challenges and continuous learning to inspire transformative solutions.</p>
+</div>
+
 
 ###
 

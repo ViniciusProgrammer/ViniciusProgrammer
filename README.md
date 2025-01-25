@@ -14,18 +14,17 @@
 
 <h1 align="left">About Me 🖖</h1>
 
- <div class="about-me">
-  <h1>👋 About Me</h1>
+ <div>
   <p>🎓 <strong>Information Technology Student</strong> at the Instituto Metrópole Digital (IMD/UFRN), driven by a passion for learning, innovating, and growing in the technology universe.</p>
 
-  <h2>💻 Focus Areas:</h2>
+  <h2>💻 Focus Areas</h2>
   <ul>
     <li><strong>Back-end:</strong> Developing advanced skills in <strong>Java</strong>, with an emphasis on the <strong>Object-Oriented Programming (OOP)</strong> paradigm to create robust and well-structured solutions.</li>
     <li><strong>Front-end:</strong> Exploring modern tools such as <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>React</strong>, aiming to build elegant, functional, and user-centered interfaces.</li>
     <li>🎨 <strong>Design and User Experience:</strong> Enhancing my expertise in <strong>Figma</strong>, designing intuitive and visually impactful layouts that seamlessly connect technology and design.</li>
   </ul>
 
-  <h2>🚀 Objective:</h2>
+  <h2>🚀 Objective</h2>
   <p>Leverage a solid foundation in programming and modern tools to build innovative, efficient, and user-focused projects. Always seeking new challenges and continuous learning to inspire transformative solutions.</p>
 </div>
 

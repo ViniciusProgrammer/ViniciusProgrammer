@@ -12,25 +12,21 @@
 
 <!-- AQUI FICAM ASPECTOS SOBRE MIM-->
 
-
 <h1 align="left">About Me 🖖</h1>
 
-###
-
-<p> 
-  <strong><h3 align="center">Sou estudante do curso de Tecnologia da Informação no Instituto Metrópole Digital na UFRN <br/></h3></strong>
-  <ul>
-    <li>
-      🧠 Atualmente, estou redirecionando meu foco para a linguagem Java, onde estou aprofundando minhas habilidades técnicas no paradigma de Programação Orientada a Objetos, buscando um domínio mais sólido e avançado dessa abordagem. <br/>
-    </li>
-    <li>
-       ⏳ Além disso, estou me desafiando a explorar o universo do front-end, focando nas tecnologias mais relevantes do mercado, como HTML5, CSS3, JavaScript, React e Figma.
-    </li>
-  </ul>
-</p>
+  <div>
+    <p>🎓 <strong>Estudante de Tecnologia da Informação</strong> no Instituto Metrópole Digital (IMD/UFRN), movido pela paixão de aprender, inovar e crescer no universo da tecnologia.</p>
+    <h2>💻 Áreas de Foco:</h2>
+    <ul>
+      <li><strong>Back-end:</strong> Desenvolvendo habilidades avançadas em <strong>Java</strong>, com ênfase no paradigma de <strong>Programação Orientada a Objetos (POO)</strong>, para criar soluções robustas e bem estruturadas.</li>
+      <li><strong>Front-end:</strong> Explorando ferramentas modernas como <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong> e <strong>React</strong>, com o propósito de desenvolver interfaces elegantes, funcionais e centradas no usuário.</li>
+      <li>🎨 <strong>Design e Experiência do Usuário:</strong> Refinando minha expertise em <strong>Figma</strong>, projetando layouts intuitivos e visuais que conectam tecnologia e design de maneira impactante.</li>
+    </ul>
+    <h2>🚀 Objetivo:</h2>
+    <p>Alavancar uma base sólida em programação e ferramentas modernas para construir projetos inovadores, eficientes e orientados à experiência do usuário. Sempre em busca de novos desafios e de um aprendizado contínuo que inspire soluções transformadoras.</p>
+  </div>
 
 ###
-
 
 <!-- AQUI FICAM AS FERRAMENTAS E LINGUAGES QUE EU APRENDI-->
 
@@ -117,7 +113,6 @@
    </tr>
 </table>
 
-
 <!-- AQUI FICA O GRÁFICO 3D -->
 
 ## 📈  My graph of commits
@@ -129,7 +124,6 @@
 ###
 
 ###
-
 
 <!-- AQUI FICA A ANIUMAÇÃO DA COBRINHA -->
 

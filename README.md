@@ -111,7 +111,7 @@
 <table align="center">
    <tr border="none">
       <td width="100%" align="center">
-         <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=mnpsnuwan&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" />
+         <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=ViniciusProgrammer&theme=algolia&row=1&column=7&margin-h=15&margin-w=9&no-bg=false" alt="TROPHY" />
       </td>
    </tr>
 </table>

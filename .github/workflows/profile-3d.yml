@@ -8,19 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: # Explicitly declare required permissions
-      contents: write
     
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ViniciusProgrammer  # seu nome de usuário explícito
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ViniciusProgrammer
           
       - name: Commit & Push
         run: |
@@ -28,4 +27,4 @@ jobs:
           git config user.email "action@github.com"
           git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
-          git push
+          git push origin ${GITHUB_REF##*/}

@@ -38,37 +38,37 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="javascript logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
   <img width="10" />
- 
-
 </div>
+
+<br>
 
 <table align="center" width=800px>
   <tr>

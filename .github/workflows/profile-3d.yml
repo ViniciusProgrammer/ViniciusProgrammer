@@ -2,26 +2,30 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # Corrigido o formato do cron
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    permissions: # Explicitly declare required permissions
+      contents: write
+    
     steps:
       - uses: actions/checkout@v3
-      
+        with:
+          fetch-depth: 0
+
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Usando o token padrão do GitHub
-          USERNAME: ${{ github.repository_owner }}
-      
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ViniciusProgrammer  # seu nome de usuário explícito
+          
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Graph" || echo "No changes to commit"
-          git push origin main || git push origin master
+          git push

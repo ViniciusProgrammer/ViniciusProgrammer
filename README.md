@@ -36,7 +36,7 @@
 <h2 align="left"> 🛠️  Tools and Languages</h2>
 
 ###
-<!--
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
   <img width="10" />
@@ -66,7 +66,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
   <img width="10" />
- -->
+ 
 
 </div>
 

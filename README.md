@@ -70,7 +70,7 @@
 
 <br>
 
-<table align="center" width=800px>
+<table align="center" width=auto>
   <tr>
     <td>
       <h3>💻 Linguagens de Programação</h3>

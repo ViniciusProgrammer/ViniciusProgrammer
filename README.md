@@ -8,28 +8,39 @@
 </p>
 
 
-###
+<!-- SOBRE MIM -->
 
-<!-- AQUI FICAM ASPECTOS SOBRE MIM-->
+<!-- SOBRE MIM -->
 
-<h1 align="left">About Me 🖖</h1>
+<!-- SOBRE MIM -->
 
- <div>
-  <p>🎓 <strong>Information Technology Student</strong> at the Instituto Metrópole Digital (IMD/UFRN), driven by a passion for learning, innovating, and growing in the technology universe.</p>
+<h1 align="left">Sobre Mim 🖖</h1>
 
-  <h2>💻 Focus Areas</h2>
+<div>
+  <p>🎓 <strong>Estudante de Tecnologia da Informação</strong> no Instituto Metrópole Digital (IMD/UFRN), desenvolvedor entusiasta e curioso por novas tecnologias. Com uma mente analítica e criativa, sou movido pelo desafio de transformar ideias em soluções inovadoras.</p>
+
+  <h2>💻 Áreas de Especialização</h2>
   <ul>
-    <li><strong>Back-end:</strong> Developing advanced skills in <strong>Java</strong>, with an emphasis on the <strong>Object-Oriented Programming (OOP)</strong> paradigm to create robust and well-structured solutions.</li>
-    <li><strong>Front-end:</strong> Exploring modern tools such as <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, and <strong>React</strong>, aiming to build elegant, functional, and user-centered interfaces.</li>
-    <li>🎨 <strong>Design and User Experience:</strong> Enhancing my expertise in <strong>Figma</strong>, designing intuitive and visually impactful layouts that seamlessly connect technology and design.</li>
+    <li>🚀 <strong>Back-end:</strong> Apaixonado por <strong>Java</strong> e arquitetura de software, desenvolvo aplicações escaláveis utilizando <strong>Programação Orientada a Objetos (POO)</strong> e boas práticas para garantir código limpo, modular e eficiente.</li>
+    <li>🌐 <strong>Front-end:</strong> Crio interfaces dinâmicas e responsivas com <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong> e <strong>React</strong>. Meu foco é construir experiências visuais intuitivas e de alto desempenho.</li>
+    <li>🎨 <strong>Design e Experiência do Usuário:</strong> Utilizo o <strong>Figma</strong> para projetar layouts modernos, alinhando tecnologia e design para garantir interfaces atraentes e funcionais.</li>
+    <li>🔧 <strong>Ferramentas e Tecnologias:</strong> Trabalho com <strong>Git/GitHub</strong>, bancos de dados relacionais e não relacionais, além de metodologias ágeis para otimizar processos e garantir entregas de qualidade.</li>
   </ul>
 
-  <h2>🚀 Objective</h2>
-  <p>Leverage a solid foundation in programming and modern tools to build innovative, efficient, and user-focused projects. Always seeking new challenges and continuous learning to inspire transformative solutions.</p>
+  <h2>🎯 Objetivo Profissional</h2>
+  <p>Construir produtos digitais inovadores que combinam performance, design e experiência do usuário. Busco aprimorar continuamente minhas habilidades, explorar novas tecnologias e contribuir ativamente para projetos desafiadores e impactantes.</p>
+
+  <h2>📌 Curiosidades</h2>
+  <ul>
+    <li>💡 Sempre em busca de novos desafios e aprendizado contínuo.</li>
+    <li>📖 Entusiasta da linguagem <strong>Java</strong> e desenvolvimento web.</li>
+    <li>📌 Experiência em projetos internos da UFRN como desenvolvedor web.</li>
+    <li>💼 Interesse por engenharia de software, arquitetura de sistemas e desenvolvimento full stack.</li>
+  </ul>
 </div>
 
 
-###
+
 
 <!-- AQUI FICAM AS FERRAMENTAS E LINGUAGES QUE EU APRENDI-->
 

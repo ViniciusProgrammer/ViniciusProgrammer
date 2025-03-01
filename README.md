@@ -19,13 +19,6 @@
 <div>
   <p>🎓 <strong>Estudante de Tecnologia da Informação</strong> no Instituto Metrópole Digital (IMD/UFRN), desenvolvedor entusiasta e curioso por novas tecnologias. Com uma mente analítica e criativa, sou movido pelo desafio de transformar ideias em soluções inovadoras.</p>
 
-<h2>💬 Reflexão</h2>
-<section>
-  <blockquote>
-    <p>"A cada bug resolvido, mais perto da senioridade e da maestria você está." — <strong>Vinicius Davi</strong></p>
-  </blockquote>
-</section>
-
   <h2>💻 Áreas de Especialização</h2>
   <ul>
     <li>🚀 <strong>Back-end:</strong> Apaixonado por <strong>Java</strong> e arquitetura de software, desenvolvo aplicações escaláveis utilizando <strong>Programação Orientada a Objetos (POO)</strong> e boas práticas para garantir código limpo, modular e eficiente.</li>
@@ -235,5 +228,12 @@
 ###
 
 <!-- AQUI FICA A FINALIZAÇÃO -->
+
+<h2>💬 Reflexão</h2>
+<section style="text-align: center;">
+  <blockquote style="font-size: 2em; text-align: center;">
+    <p>"A cada bug resolvido, mais perto da maestria e da glória da senioridade você está." — <strong>Vinicius Davi</strong></p>
+  </blockquote>
+</section>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

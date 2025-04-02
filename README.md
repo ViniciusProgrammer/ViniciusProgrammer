@@ -77,8 +77,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" />
   <img width="10" />
-src="https://skillicons.dev/icons?i=c#" height="50" alt="c# logo" />
-  <img width="10" />
+<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C# logo" />
 </div>
 
 <br>

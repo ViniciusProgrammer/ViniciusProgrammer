@@ -79,6 +79,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C# logo" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySql logo" />
+  <img width="10" />
 </div>
 
 <br>

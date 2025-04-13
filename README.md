@@ -39,7 +39,7 @@
   </ul>
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=ViniciusProgrammer&style=flat-square)
 
 
 <!-- AQUI FICAM AS FERRAMENTAS E LINGUAGES QUE EU APRENDI-->
@@ -146,7 +146,6 @@
     </td>
   </tr>
 </table>
-
 ###
 
 ###

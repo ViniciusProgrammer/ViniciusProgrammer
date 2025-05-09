@@ -81,6 +81,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySql logo" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node JS logo" />
+  <img width="10" />
 </div>
 
 <br>

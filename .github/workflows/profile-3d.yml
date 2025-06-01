@@ -8,18 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # ✅ Mantenha apenas isso
+          fetch-depth: 0
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ViniciusProgrammer
-          
+
       - name: Commit & Push
         run: |
           git config user.name "GitHub Action"

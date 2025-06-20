@@ -21,6 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token padrão do GitHub
           USERNAME: ViniciusProgrammer
           
+      - name: Pull latest changes
+        run: git pull origin ${GITHUB_REF##*/} --rebase
+
       - name: Commit & Push
         run: |
           git config user.name "GitHub Action"

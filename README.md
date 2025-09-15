@@ -83,6 +83,9 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node JS logo" />
   <img width="10" />
+  <img alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width: 50px;"/>
+  <img alt="intelIJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="width: 50px;"/>
+  <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style="width: 50px;"/>
 </div>
 
 <br>

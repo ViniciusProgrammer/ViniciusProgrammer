@@ -85,7 +85,7 @@
   <img alt="intelIJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="width: 50px;"/>
   <img alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style="width: 50px;"/>
 </div>
-________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
 <br><br>
 
 <table align="center" width=auto>

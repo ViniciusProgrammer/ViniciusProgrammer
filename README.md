@@ -116,7 +116,7 @@ ________________________________________________________________________________
     <td>
       <h3>🔧 Ferramentas & Plataformas</h3>
 <p align="left">
-  <img src="https://api.devicons.dev.br/icon?icons=VScode%2CEclipse%2CLinux%2CGit%2CGitHub%2CSublime%2CBash%2CVisualStudio%2Cmarkdown%2CGitLab%2CDocker&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
+  <img src="https://api.devicons.dev.br/icon?icons=VScode%2CEclipse%2CLinux%2CGit%2CGitHub%2CSublime%2CBash%2CVisualStudio%2CCMake%2Cmarkdown%2CGitLab%2CDocker%2CDotNet%2CPyCharm%2CStackOverflow%2CUbuntu%2CUnrealEngine%2CMaven&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA"/>
 </p>
     </td>
@@ -211,9 +211,4 @@ ________________________________________________________________________________
     <p>"A cada bug resolvido, mais perto da maestria e da glória da senioridade você está." — <strong>Vinicius Davi</strong></p>
   </blockquote>
 </section>
-
-<p align="center">
-  <img src="https://api.devicons.dev.br/icon?icons=C%2CCPP%2CPython%2CJava%2CCS%2CKotlin%2CTypeScript%2CGit%2CGithub%2CGitLab%2CFigma%2CEclipse%2CLinux%2CNodeJS%2CMySQL%2CDotNet%2CHtmx%2CCSS%2CBash%2CCMake%2CCloudflare%2CPyCharm%2CStackOverflow%2CUbuntu%2CUnrealEngine%2CVSCode%2CSpring&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

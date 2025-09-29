@@ -92,8 +92,8 @@ ________________________________________________________________________________
   <tr>
     <td>
       <h3>💻 Linguagens de Programação</h3>
-      <p align="left">
-  <img src="https://api.devicons.dev.br/icon?icons=Java%2CC%2CCPP%2CCS%2CPython%2CKotlin&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
+      <p align="center">
+  <img src="https://api.devicons.dev.br/icon?icons=Java%2CC%2CCPP%2CCS%2CPython%2CKotlin&size=65&theme=dark&perline=14" alt="Minhas Skills"/>
       </p>
     </td>
 <tr>
@@ -101,23 +101,22 @@ ________________________________________________________________________________
  <tr>
     <td>
       <h3>🖥️ Frontend</h3>
-<p align="left">
-  <img src="https://api.devicons.dev.br/icon?icons=TypeScript%2CFigma%2CHtml%2CCSS%2CVSCode%2CJavaScript%2CReact%2CVite&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
+<p align="center">
+  <img src="https://api.devicons.dev.br/icon?icons=TypeScript%2CFigma%2CHtml%2CCSS%2CVSCode%2CJavaScript%2CReact%2CVite&size=62&theme=dark&perline=14" alt="Minhas Skills"/>
 </p>
     </td>
 </tr>
     <td>
       <h3>🚀 Backend</h3>
-      <p align="left">
-  <img src="https://api.devicons.dev.br/icon?icons=Java%2CC%2CCPP%2CCS%2CPython%2CNodeJS%2CKotlin%2CSpring%2CMySQL%2CPostgreSQL&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
+      <p align="center">
+  <img src="https://api.devicons.dev.br/icon?icons=Java%2CC%2CCPP%2CCS%2CPython%2CNodeJS%2CKotlin%2CSpring%2CMySQL%2CPostgreSQL&size=62&theme=dark&perline=14" alt="Minhas Skills"/>
       </p>
     </td>
 <tr>
     <td>
       <h3>🔧 Ferramentas & Plataformas</h3>
-<p align="left">
-  <img src="https://api.devicons.dev.br/icon?icons=VScode%2CEclipse%2CLinux%2CGit%2CGitHub%2CSublime%2CBash%2CVisualStudio%2CCMake%2Cmarkdown%2CGitLab%2CDocker%2CDotNet%2CPyCharm%2CStackOverflow%2CUbuntu%2CUnrealEngine%2CMaven&size=48&theme=dark&perline=14" alt="Minhas Skills"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA"/>
+<p align="center">
+  <img src="https://api.devicons.dev.br/icon?icons=VScode%2CEclipse%2CLinux%2CGit%2CGitHub%2CSublime%2CBash%2CVisualStudio%2CCMake%2Cmarkdown%2CGitLab%2CDocker%2CDotNet%2CPyCharm%2CStackOverflow%2CUbuntu%2CUnrealEngine%2CMaven&size=62&theme=dark&perline=14" alt="Minhas Skills"/>
 </p>
     </td>
 </tr>

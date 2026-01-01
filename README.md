@@ -116,7 +116,7 @@ ________________________________________________________________________________
     <td>
       <h3>🔧 Ferramentas & Plataformas</h3>
 <p align="center">
-  <img src="https://api.devicons.dev.br/icon?icons=VScode%2CEclipse%2CLinux%2CGit%2CGitHub%2CSublime%2CBash%2CVisualStudio%2CCMake%2Cmarkdown%2CGitLab%2CDocker%2CDotNet%2CPyCharm%2CStackOverflow%2CUbuntu%2CUnrealEngine%2CMaven&size=62&theme=dark&perline=14" alt="Minhas Skills"/>
+  <img src="https://api.devicons.dev.br/icon?icons=VScode%2CEclipse%2CLinux%2CGit%2CGitHub%2CSublime%2CBash%2CVisualStudio%2CCMake%2Cmarkdown%2CGitLab%2CDocker%2CDotNet%2CPyCharm%2CGradle%2CStackOverflow%2CUbuntu%2CUnrealEngine%2CMaven&size=62&theme=dark&perline=14" alt="Minhas Skills"/>
 </p>
     </td>
 </tr>

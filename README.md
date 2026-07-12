@@ -47,17 +47,34 @@
 
 ---
 
-## 📚 Atualmente estudando
+<h2 align="center">📚 Atualmente estudando</h2>
 
-| Tecnologia | Status |
-|------------|--------|
-| ☕ Java | ██████████ 100% |
-| 🧩 POO | █████████░ 90% |
-| 🌱 Spring Boot | ███████░░░ 70% |
-| 🗄️ SQL | ████████░░ 80% |
-| 🐧 Linux | ███████░░░ 70% |
-
----
+<table align="center">
+  <tr>
+    <th>Tecnologia</th>
+    <th>Nível</th>
+    <th>Tecnologia</th>
+    <th>Nível</th>
+    <th>Tecnologia</th>
+    <th>Nível</th>
+  </tr>
+  <tr>
+    <td>☕ Java</td>
+    <td>██████████</td>
+    <td>🧩 POO</td>
+    <td>█████████░</td>
+    <td>🗄️ SQL</td>
+    <td>████████░░</td>
+  </tr>
+  <tr>
+    <td>🌱 Spring Boot</td>
+    <td>███████░░░</td>
+    <td>🏛️ JPA</td>
+    <td>██████░░░░</td>
+    <td>🧪 JUnit</td>
+    <td>█████░░░░░</td>
+  </tr>
+</table>
 
 ## 🎯 Objetivos
 

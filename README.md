@@ -16,8 +16,92 @@
 
 
 
-# 💫 About Me:
-👋 Olá, eu sou Vinicius Davi<br><br>Sou bacharel em **Tecnologia da Informação** pelo **Instituto Metrópole Digital (IMD/UFRN)** e, atualmente integro o núcleo de **Engenharia de Software** da **Universidade Federal do Rio Grande do Norte (UFRN)**.<br><br>Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em me tornar um Desenvolvedor Back-end Java, dedicando meu tempo ao estudo de Programação Orientada a Objetos, Java, SQL, Spring Boot e boas práticas de engenharia de software.<br><br>Gosto de entender como as tecnologias funcionam internamente e de aprimorar continuamente minhas habilidades de resolução de problemas por meio da criação de projetos e da prática constante de programação.<br><br>## 🚀 Atualmente estudando<br><br>* ☕ Java<br>* 🧩 Programação Orientada a Objetos (POO)<br>* 🌱 Spring Boot<br>* 🗄️ SQL e Bancos de Dados<br>* 🔀 Git e GitHub<br>* 💻 Estruturas de Dados e Algoritmos<br><br>## 🎯 Objetivos<br><br>* Desenvolver aplicações Java sólidas, organizadas e de alta qualidade.<br>* Ser um profissional cada vez melhor.<br>* Contribuir com projetos Open Source.<br>* Evoluir continuamente como engenheiro de software, aprendendo novas tecnologias e aprimorando minhas habilidades.<br><br>> *"A consistência supera a intensidade. Cada linha de código é um passo a mais rumo à excelência."*<br>
+# 👋 Olá, eu sou Vinicius Davi
+
+<p align="center">
+  <h3>Desenvolvedor Back-end Java em formação</h3>
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Boas%20Práticas-6A5ACD?style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Bacharel em **Tecnologia da Informação** pelo **Instituto Metrópole Digital (IMD/UFRN)**.
+
+🎓 Atualmente graduando em **Engenharia de Software** pela **Universidade Federal do Rio Grande do Norte (UFRN)**.
+
+💜 Apaixonado por tecnologia e desenvolvimento Back-end.
+
+☕ Focado em Java, Programação Orientada a Objetos, SQL e Spring Boot.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+    <img width="70%" src="https://streak-stats.demolab.com?user=ViniciusProgrammer&theme=radical"/>
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,idea,vscode,linux"/>
+
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+| Tecnologia | Status |
+|------------|--------|
+| ☕ Java | ██████████ 100% |
+| 🧩 POO | █████████░ 90% |
+| 🌱 Spring Boot | ███████░░░ 70% |
+| 🗄️ SQL | ████████░░ 80% |
+| 🐧 Linux | ███████░░░ 70% |
+
+---
+
+## 🎯 Objetivos
+
+- Desenvolver aplicações Java escaláveis.
+- Conquistar minha primeira oportunidade como Desenvolvedor Java.
+- Contribuir para projetos Open Source.
+- Evoluir continuamente como engenheiro de software.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://github.com/ViniciusProgrammer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+> **"A consistência supera a intensidade. Cada linha de código é um passo rumo à excelência."**
 
 
 # 💻 Tech Stack:

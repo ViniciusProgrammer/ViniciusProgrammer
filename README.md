@@ -18,18 +18,15 @@
 
 # 👋 Olá, eu sou Vinicius Davi
 
-<p align="center">
-  <h3>Desenvolvedor Back-end Java em formação</h3>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Boas%20Práticas-6A5ACD?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
+
+<p align="center">
+  <h3>Desenvolvedor Back-end Java</h3>
+
+  **Bacharel em Tecnologia da Informação (IMD/UFRN) e graduando em Engenharia de Software (UFRN). Meu objetivo é construir uma carreira sólida como Desenvolvedor Back-end Java, unindo uma base acadêmica consistente, disciplina nos estudos e dedicação ao aperfeiçoamento técnico. Tenho interesse em arquitetura de software, Programação Orientada a Objetos, bancos de dados e desenvolvimento de aplicações escaláveis, sempre buscando escrever código organizado, legível e de fácil manutenção.**
+</p>
 
 🎓 Bacharel em **Tecnologia da Informação** pelo **Instituto Metrópole Digital (IMD/UFRN)**.
 
@@ -39,22 +36,8 @@
 
 ☕ Focado em Java, Programação Orientada a Objetos, SQL e Spring Boot.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusProgrammer&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProgrammer&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-    <img width="70%" src="https://streak-stats.demolab.com?user=ViniciusProgrammer&theme=radical"/>
-</p>
-
----
-
-## 🚀 Tecnologias
+## 🚀 Principais Tecnologias do meu dia a dia
 
 <p align="center">
 

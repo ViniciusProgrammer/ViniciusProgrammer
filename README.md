@@ -25,7 +25,7 @@
 
 #
 <p align="left">
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIP. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.
+Sou Bacharel em Tecnologia da Informação pelo Instituto Metrópole Digital da UFRN e atualmente faço parte do curso de Engenharia de Software na UFRN. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.
 Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
 
 

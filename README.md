@@ -25,7 +25,7 @@
 <p align="center">
   <h3>Desenvolvedor Back-end Java</h3>
 
-  **Bacharel em Tecnologia da Informação pelo Instituto Metrópole Digital na Universidade Federal do Rio Grande do Norte, atualmente faço parte do núcleo de Engenharia de Sofitware da UFRN. Meu objetivo é construir uma carreira sólida como Desenvolvedor Back-end, unindo uma base acadêmica consistente, disciplina nos estudos e dedicação ao aperfeiçoamento técnico. Tenho interesse em arquitetura de software, Programação Orientada a Objetos, bancos de dados e desenvolvimento de aplicações escaláveis, sempre buscando escrever código organizado, legível e de fácil manutenção.**
+  Bacharel em Tecnologia da Informação pelo Instituto Metrópole Digital na Universidade Federal do Rio Grande do Norte, atualmente faço parte do núcleo de Engenharia de Sofitware da UFRN. Meu objetivo é construir uma carreira sólida como Desenvolvedor Back-end, unindo uma base acadêmica consistente, disciplina nos estudos e dedicação ao aperfeiçoamento técnico. Tenho interesse em arquitetura de software, Programação Orientada a Objetos, bancos de dados e desenvolvimento de aplicações escaláveis, sempre buscando escrever código organizado, legível e de fácil manutenção.
 </p>
 
 🎓 Bacharel em **Tecnologia da Informação** pelo **Instituto Metrópole Digital (IMD/UFRN)**.

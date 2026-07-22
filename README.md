@@ -161,10 +161,10 @@
 <!-- AQUI FICA A ANIUMAÇÃO DA COBRINHA -->
 
 <h2 align="left"> 🐍  Animation in my commits</h2>
-  
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake.svg">
 </picture>
 

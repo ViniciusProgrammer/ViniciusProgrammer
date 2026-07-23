@@ -17,6 +17,9 @@ on:
 
 jobs:
   generate:
+    concurrency:
+      group: output-branch-publish
+      cancel-in-progress: false
     permissions: 
       contents: write
     runs-on: ubuntu-latest

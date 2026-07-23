@@ -161,6 +161,9 @@
 <!-- AQUI FICA A ANIUMAÇÃO DA COBRINHA -->
 
 <h2 align="left"> 🐍  Animation in my commits</h2>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/snake.svg" alt="Snake animation" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusProgrammer/ViniciusProgrammer/output/github-contribution-grid-snake-dark.svg">

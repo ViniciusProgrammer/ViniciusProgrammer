@@ -23,7 +23,8 @@ jobs:
 
     steps:
       - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: >-
+          abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
         with:
           github_user_name: ${{ github.repository_owner }}
 

@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,idea,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,git,github,idea,eclipse,vscode,linux"/>
 
 </p>
 

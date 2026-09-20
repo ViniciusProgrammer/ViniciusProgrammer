@@ -23,18 +23,7 @@
 ## 👨‍💻 Sobre mim
 
 <p align="center">
-  <h3>Desenvolvedor Back-end Java</h3>
-
-  Bacharel em Tecnologia da Informação pelo Instituto Metrópole Digital na Universidade Federal do Rio Grande do Norte, atualmente faço parte do núcleo de Engenharia de Sofitware da UFRN. Meu objetivo é construir uma carreira sólida como Desenvolvedor Back-end, unindo uma base acadêmica consistente, disciplina nos estudos e dedicação ao aperfeiçoamento técnico. Tenho interesse em arquitetura de software, Programação Orientada a Objetos, bancos de dados e desenvolvimento de aplicações escaláveis, sempre buscando escrever código organizado, legível e de fácil manutenção.
-</p>
-
-🎓 Bacharel em **Tecnologia da Informação** pelo **Instituto Metrópole Digital (IMD/UFRN)**.
-
-🎓 Atualmente graduando em **Engenharia de Software** pela **Universidade Federal do Rio Grande do Norte (UFRN)**.
-
-💜 Apaixonado por tecnologia e desenvolvimento Back-end.
-
-☕ Focado em Java, Programação Orientada a Objetos, SQL e Spring Boot.
+ <section id="sobre-mim"> <p> Sou <strong>Desenvolvedor Full Stack</strong>, bacharel em Tecnologia da Informação pelo Instituto Metrópole Digital (IMD/UFRN) e atualmente graduando em Engenharia de Software pela Universidade Federal do Rio Grande do Norte (UFRN). </p> <p> Tenho como objetivo construir uma carreira sólida em desenvolvimento de software, unindo uma base acadêmica consistente à prática e ao aprimoramento contínuo das minhas habilidades técnicas. Tenho interesse em desenvolver aplicações <strong>robustas, escaláveis e de fácil manutenção</strong>, buscando sempre escrever código limpo, organizado e alinhado às boas práticas de engenharia de software. </p> <p> Minha atuação abrange tanto o <strong>desenvolvimento Back-end quanto Front-end</strong>, com foco na construção de APIs, aplicações web, integração entre sistemas, persistência de dados e desenvolvimento de soluções completas. </p> <h3>🎓 Formação</h3> <ul> <li> 🎓 <strong>Bacharel em Tecnologia da Informação</strong> — Instituto Metrópole Digital (IMD/UFRN). </li> <li> 🎓 <strong>Graduando em Engenharia de Software</strong> — Universidade Federal do Rio Grande do Norte (UFRN). </li> </ul> <h3>💻 Áreas de interesse e tecnologias</h3> <ul> <li>☕ <strong>Java e Spring Boot</strong></li> <li>🧩 <strong>Programação Orientada a Objetos</strong></li> <li>🌐 <strong>Desenvolvimento de aplicações Web</strong></li> <li>🗄️ <strong>SQL e bancos de dados</strong></li> <li>🔌 <strong>Desenvolvimento e integração de APIs REST</strong></li> <li>🏗️ <strong>Arquitetura e boas práticas de software</strong></li> <li>🎨 <strong>Desenvolvimento Front-end</strong></li> <li>🔄 <strong>Integração entre Front-end e Back-end</strong></li> <li>📈 <strong>Aplicações escaláveis, organizadas e de fácil manutenção</strong></li> </ul> <p> Sou apaixonado por tecnologia e estou constantemente buscando novos conhecimentos, aprimorando minhas habilidades e transformando desafios em soluções de software eficientes e bem estruturadas. </p> </section>
 
 
 ## 🚀 Principais Tecnologias do meu dia a dia
